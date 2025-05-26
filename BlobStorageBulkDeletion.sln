@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkStorageBulkDeletion", "BulkStorageBulkDeletion\BulkStorageBulkDeletion.csproj", "{DD2DD34E-1A45-47BF-A6FF-01FCA29E069F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobStorageBulkDeletion", "BlobStorageBulkDeletion\BlobStorageBulkDeletion.csproj", "{DD2DD34E-1A45-47BF-A6FF-01FCA29E069F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
