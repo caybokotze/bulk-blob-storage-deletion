@@ -1,7 +1,7 @@
 ﻿# Blob storage bulk deletion tool
 
 ### Uses
-#### CLI
+#### CLI Options
 Use the CLI to provide some options. This allows for more advanced settings like the amount of files which are deleted concurrently.
 
 ```shell
@@ -14,5 +14,5 @@ Use the CLI to provide some options. This allows for more advanced settings like
   --version                  Display version information.
 ```
 
-#### Just run the Exe
+#### CLI / Exe without Options
 Just run the `BlobStorageBulkDeletion.exe` file and follow the prompts to select what you want to delete.
